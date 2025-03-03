@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Salut, moi c’est Raphaël !
 
-<!--
-**raphaelparone/raphaelparone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis un **développeur Backend** avec une passion pour les technologies web et tout ce qui touche à l’algorithmie. J’aime bâtir des solutions techniques solides, performantes et innovantes.
 
-Here are some ideas to get you started:
+Quand je ne code pas, je passe mon temps à explorer de nouvelles technologies, à résoudre des problèmes et à créer des projets qui font la différence !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 **Mon XP Tech**
+
+- **Backend** : Node.js, Express.js, Python, C, C++ 
+- **Frontend** : HTML, CSS, JavaScript, TypeScript, React, Angular, Vue.js, Next.js 
+- **Bases de données** : MySQL, PostgreSQL 
+- **Autres** : Iot, Git, Bash, Api Rest, Electron 
+
+---
+
+## 🚀 **Quelques projets intéressants**
+
+- **Portfolio personnel** : ...  
+  Un site simple et épuré pour présenter mes projets et mes compétences.
+
+- **Projet 2** :  
+  Description du projet 2. (Réalisé en **...**)
+
+- **Projet 3** :  
+  Description du projet 3. (Réalisé en **...**)
+
+---
+
+## 📩 **Contactez-moi**
+
+- **Portfolio** : [...] 
+- **LinkedIn** : [...]  
+- **Email** : [rparone2@gmail.com]  
+
+---
+
+🔥 "Le code n’est pas juste une solution, c’est une façon de penser."
+
