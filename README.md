@@ -31,7 +31,7 @@ Quand je ne code pas, je passe mon temps à explorer de nouvelles technologies, 
 ## 📩 **Contactez-moi**
 
 - **Portfolio** : [...] 
-- **LinkedIn** : [...]  
+- **LinkedIn** : [Mon LinkedIn](https://www.linkedin.com/in/raphaël-parone-113612354/)
 - **Email** : [rparone2@gmail.com]  
 
 ---
