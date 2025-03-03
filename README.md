@@ -36,5 +36,5 @@ Quand je ne code pas, je passe mon temps à explorer de nouvelles technologies, 
 
 ---
 
-🔥 "Le code n’est pas juste une solution, c’est une façon de penser."
+🔥 "La programmation, c’est un puzzle dont on connaît la solution… après quelques erreurs."
 
